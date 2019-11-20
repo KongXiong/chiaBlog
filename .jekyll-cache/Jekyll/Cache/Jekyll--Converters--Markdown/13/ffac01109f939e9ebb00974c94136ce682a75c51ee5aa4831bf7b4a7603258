@@ -1,0 +1,283 @@
+I"›<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
+            
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="devices"><span>devices</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/post-1/">First post!</a>
+	</h2>
+	<p class="excerpt">
+	   FIRST!!! (also testing from the iPad) Blah blah blahblahblah blah.  Blah blah blahblahblah blah.  Blah blah blahblahblah blah.  Blah blah blahblahblah blah.  Blah blah blahblahblah bl...
+	</p>
+	<small class="d-block text-muted">
+		<span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#devices">devices</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tech">tech</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#toys">toys</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 05, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/post-1/">
+	<img class="w-100" src="/assets/images/8.jpg" alt="First post!" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="tech"><span>tech</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/post-1/">First post!</a>
+	</h2>
+	<p class="excerpt">
+	   FIRST!!! (also testing from the iPad) Blah blah blahblahblah blah.  Blah blah blahblahblah blah.  Blah blah blahblahblah blah.  Blah blah blahblahblah blah.  Blah blah blahblahblah bl...
+	</p>
+	<small class="d-block text-muted">
+		<span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#devices">devices</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tech">tech</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#toys">toys</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 05, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/post-1/">
+	<img class="w-100" src="/assets/images/8.jpg" alt="First post!" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="toys"><span>toys</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Christmas-wrappings/">Christmas Wrappings</a>
+	</h2>
+	<p class="excerpt">
+	   Elegant, clean, and beautiful.
+	</p>
+	<small class="d-block text-muted">
+		<span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#diy">diy</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#presents">presents</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#toys">toys</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Nov 19, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Christmas-wrappings/">
+	<img class="w-100" src="/assets/images/christmas_presents_2.gif" alt="Christmas Wrappings" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/post-1/">First post!</a>
+	</h2>
+	<p class="excerpt">
+	   FIRST!!! (also testing from the iPad) Blah blah blahblahblah blah.  Blah blah blahblahblah blah.  Blah blah blahblahblah blah.  Blah blah blahblahblah blah.  Blah blah blahblahblah bl...
+	</p>
+	<small class="d-block text-muted">
+		<span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#devices">devices</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tech">tech</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#toys">toys</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 05, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/post-1/">
+	<img class="w-100" src="/assets/images/8.jpg" alt="First post!" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="diy"><span>diy</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Christmas-wrappings/">Christmas Wrappings</a>
+	</h2>
+	<p class="excerpt">
+	   Elegant, clean, and beautiful.
+	</p>
+	<small class="d-block text-muted">
+		<span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#diy">diy</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#presents">presents</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#toys">toys</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Nov 19, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Christmas-wrappings/">
+	<img class="w-100" src="/assets/images/christmas_presents_2.gif" alt="Christmas Wrappings" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="presents"><span>presents</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Christmas-wrappings/">Christmas Wrappings</a>
+	</h2>
+	<p class="excerpt">
+	   Elegant, clean, and beautiful.
+	</p>
+	<small class="d-block text-muted">
+		<span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#diy">diy</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#presents">presents</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#toys">toys</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Nov 19, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Christmas-wrappings/">
+	<img class="w-100" src="/assets/images/christmas_presents_2.gif" alt="Christmas Wrappings" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+        
+
+        </div>
+        
+            <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+           
+    </ol>
+</div>     
+    </div>
+        
+    </div>
+</div>
+:ET
